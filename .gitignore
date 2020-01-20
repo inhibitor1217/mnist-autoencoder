@@ -1,0 +1,5 @@
+venv/
+tmp/
+.idea/
+.vscode/
+*.pyc
